@@ -1,18 +1,7 @@
-# Временные файлы
 *.tmp
-*.temp
 *.log
-
-# Файлы операционной системы
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Настройки редакторов
 .vscode/
 .idea/
-
-# Локальные файлы окружения и секреты
-.env
-.env.*
-!.env.example
